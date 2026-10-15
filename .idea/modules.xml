@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01 - School Store Checkout/01 - School Store Checkout.iml" filepath="$PROJECT_DIR$/01 - School Store Checkout/01 - School Store Checkout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02 - Theme Park/02 - Theme Park.iml" filepath="$PROJECT_DIR$/02 - Theme Park/02 - Theme Park.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03 - Seven Day Step Challenge/03 - Seven Day Step Challenge.iml" filepath="$PROJECT_DIR$/03 - Seven Day Step Challenge/03 - Seven Day Step Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04 - Event Registration Validation/04 - Event Registration Validation.iml" filepath="$PROJECT_DIR$/04 - Event Registration Validation/04 - Event Registration Validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 - Activity Day Booking/05 - Activity Day Booking.iml" filepath="$PROJECT_DIR$/05 - Activity Day Booking/05 - Activity Day Booking.iml" />
+    </modules>
+  </component>
+</project>
